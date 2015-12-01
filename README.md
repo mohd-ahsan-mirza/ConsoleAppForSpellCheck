@@ -5,7 +5,7 @@ This is a console application used for real time spell checking. Functionalites 
 
 The Dictionary uses the Node class as private because exposing the nodes in the Dictionary class can break the application.
 
-A picture is worth a thousand words.That is why I drew a simple diagram to illustrate how Node class works for this application.
+A picture is worth a thousand words.That is why I drew a simple diagram to illustrate how Node class works for this application: 
 https://github.com/mohd-ahsan-mirza/ConsoleAppForSpellCheck/blob/master/image.png
 
 The application simply uses a non-binary search tree data structure for detecting spelling mistakes and coupled with edit distances between words and segments, the application provides list of suggestions for incorrect words
